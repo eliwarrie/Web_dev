@@ -1,0 +1,22 @@
+body {
+    background-color: gray;
+}
+
+ul, li, a{
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    color: white;
+}
+
+li{
+    float: left;
+}
+
+h1{
+    padding: 80px;
+    margin: 30;
+    text-align: center;
+    color: yellow;
+}
